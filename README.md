@@ -1,2 +1,2 @@
-# Coursera_Capstone
-### Capstone Project of IBM data science specialization
+# Best Indian Cuisine Restaurent
+### Complete Project
